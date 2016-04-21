@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BC5CDE281CC8A20A00B3AD63 /* NewFile in Resources */ = {isa = PBXBuildFile; fileRef = BC5CDE271CC8A20A00B3AD63 /* NewFile */; };
 		BCD6A4E01CC4D19100403AAA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BCD6A4DF1CC4D19100403AAA /* main.m */; };
 		BCD6A4E31CC4D19100403AAA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BCD6A4E21CC4D19100403AAA /* AppDelegate.m */; };
 		BCD6A4E61CC4D19100403AAA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BCD6A4E51CC4D19100403AAA /* ViewController.m */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BC5CDE271CC8A20A00B3AD63 /* NewFile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NewFile; sourceTree = "<group>"; };
 		BCD6A4DB1CC4D19100403AAA /* TestEditTable.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestEditTable.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCD6A4DF1CC4D19100403AAA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		BCD6A4E11CC4D19100403AAA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				BCD6A4E21CC4D19100403AAA /* AppDelegate.m */,
 				BCD6A4E41CC4D19100403AAA /* ViewController.h */,
 				BCD6A4E51CC4D19100403AAA /* ViewController.m */,
+				BC5CDE271CC8A20A00B3AD63 /* NewFile */,
 				BCD6A4E71CC4D19100403AAA /* Main.storyboard */,
 				BCD6A4EA1CC4D19100403AAA /* Assets.xcassets */,
 				BCD6A4EC1CC4D19100403AAA /* LaunchScreen.storyboard */,
@@ -247,6 +250,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BCD6A4EE1CC4D19100403AAA /* LaunchScreen.storyboard in Resources */,
+				BC5CDE281CC8A20A00B3AD63 /* NewFile in Resources */,
 				BCD6A4EB1CC4D19100403AAA /* Assets.xcassets in Resources */,
 				BCD6A4E91CC4D19100403AAA /* Main.storyboard in Resources */,
 			);
@@ -501,6 +505,7 @@
 				BCD6A50A1CC4D19100403AAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BCD6A50B1CC4D19100403AAA /* Build configuration list for PBXNativeTarget "TestEditTableTests" */ = {
 			isa = XCConfigurationList;
@@ -509,6 +514,7 @@
 				BCD6A50D1CC4D19100403AAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BCD6A50E1CC4D19100403AAA /* Build configuration list for PBXNativeTarget "TestEditTableUITests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +523,7 @@
 				BCD6A5101CC4D19100403AAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
