@@ -4,3 +4,5 @@
 
 // Git is a distributed version control system
 // Git is freee software distributed under the GPL
+
+// Git has a mutable index called stage. Git有一个叫暂存区的的可变索引
