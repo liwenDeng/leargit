@@ -1,7 +1,8 @@
 Creating a new branch name dev
 this is new branch dev
 
-用户A做了一些修改,1 + 1 = 2;
-用户A又做了一些修改，2 + 2 = 5;
 
+用户B 做了一些修改 2 + 2 = 4;
+用户A做了一些修改,1 + 1 = 2;
 用户A再次做了修改, 3 + 3 =6;
+
